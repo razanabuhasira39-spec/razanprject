@@ -1,0 +1,7 @@
+body {
+  direction: rtl;
+  font-family: "Cairo", sans-serif;
+}
+.card {
+  border-radius: 15px;
+}
